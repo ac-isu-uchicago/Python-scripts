@@ -1,3 +1,6 @@
+#for i in iterable_object:
+   # do something
+
 my_list = [1, 2, 3, 4]
 
 for i in my_list:
